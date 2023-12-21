@@ -196,3 +196,19 @@ button {
 .c2a-button button{
     border: 3px solid #F9FAF8;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+}
+.copyright{
+    text-align: center;
+    color: #F9FAF8;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 40px 15%;
+}
