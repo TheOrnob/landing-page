@@ -160,3 +160,39 @@ button {
 .name {
     align-self: flex-end;
 }
+
+.c2a-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 72px 15%;
+}
+.c2a {
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 42px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex: 1 1 1200px;
+    flex-wrap: wrap;
+}
+
+.c2a-head{
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 700;
+}
+.c2a-sub {
+    color: #E5E7EB;
+}
+
+.c2a-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c2a-button button{
+    border: 3px solid #F9FAF8;
+}
